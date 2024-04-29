@@ -49,6 +49,9 @@
 - id: btn_video
   translation: Video
 
+- id: btn_talk
+  translation: Talk
+
 - id: btn_code
   translation: Code
 
