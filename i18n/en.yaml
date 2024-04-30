@@ -38,7 +38,7 @@
   translation: Preprint
 
 - id: btn_pdf
-  translation: PDF
+  translation: Paper
 
 - id: btn_cite
   translation: Cite
